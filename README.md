@@ -34,13 +34,16 @@ balances.
 
 # How to use
 First method
+
 copy and paste the code in an online compiler and run the script enjoy.
 
-Second methon
+Second method
+
 Ensure python is installed on the device along with a python compiler of you choice.. download the py file to your pc and open the in you compiler 
 run the code in the dedicated terminal.
 
 Third method
+
 Ensure python is installed on the device. open command line type python ..copy and paste the code run and enjoy
 
 # Thank you for visiting
