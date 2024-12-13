@@ -2,20 +2,15 @@
 This system simulates a real-world scenario, emphasizing the practical application of object-oriented programming (OOP), modular design, and exception handling.
 Author: Nicholas Johnson
 
-Date Created: December 08, 2024
-
+#Date Created: December 08, 2024
 Course: ITT103
-
 GitHub Public URL to Code: https://github.com/NicholasUCC/Course-Registration-and-Payment-System
 
 
-# UNIVERSITY OF THE COMMONWEALTH CARIBBEAN
-
-# School of Mathematics, Science & Technology
-
-# Department of Information Technology
-
-# PROJECT ASSESSMENT
+UNIVERSITY OF THE COMMONWEALTH CARIBBEAN
+School of Mathematics, Science & Technology
+Department of Information Technology
+PROJECT ASSESSMENT
 
 # Title: Course Registration and Payment System
 
